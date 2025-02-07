@@ -2,7 +2,7 @@
 import requests
 from pprint import pprint
 
-API_KEY = '89d3d0965b5f4e50d1b68aa404dafe43'
+API_KEY = ''
 CURRENT_URL = 'https://api.openweathermap.org/data/2.5/weather'
 FORECAST_URL = 'https://api.openweathermap.org/data/2.5/forecast'
 GEOCODING_URL = 'http://api.openweathermap.org/geo/1.0/direct'
